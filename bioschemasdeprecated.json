@@ -10,7 +10,7 @@
     "bioschemasdrafts": "https://discovery.biothings.io/view/bioschemasdrafts/",
     "bioschemastypes": "https://discovery.biothings.io/view/bioschemastypes/",
     "bioschemastypesdrafts": "https://discovery.biothings.io/view/bioschemastypesdrafts/",
-    "schema:dateModified": "04/07/2022, 19:16:39"
+    "schema:dateModified": "04/07/2022, 19:26:19"
   },
   "@graph": [
     {
